@@ -10,10 +10,9 @@ export default function Page() {
         <Text style={styles.subtitle}>app/index.tsx</Text>
       </View>
       <View style={styles.screencontainer}>
-        <Link href="/profile">
+        <Link href="/(drawer)/profile">
           <Text style={styles.linktitle}>login</Text>
         </Link>
-       
       </View>
     </View>
   );

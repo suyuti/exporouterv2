@@ -20,8 +20,9 @@ export default function Layout() {
         }}
       />
       <Tabs.Screen
-        name="profile"
+        name="(drawer)"
         options={{
+          headerShown: false,
           title: "profile",
           headerTitle: "Profile",
           tabBarLabel: "profile",
