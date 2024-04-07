@@ -39,6 +39,12 @@
         "projectId": "ee6a0175-1209-477f-834b-53df47b2258d"
       }
     },
-    "owner": "alperbayram"
+    "owner": "alperbayram",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ee6a0175-1209-477f-834b-53df47b2258d"
+    }
   }
 }
