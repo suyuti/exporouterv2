@@ -1,6 +1,6 @@
 # `Expo Router v2` 
 
-![image](https://miro.medium.com/v2/resize:fit:590/format:webp/1*6fxD0vvMBjdHTgfestPDFg.gif)
+![image](https://raw.githubusercontent.com/alperbayram/exporouterv2/layouts/assets/rec.gif)
 
 <p>
   <!-- iOS -->
