@@ -6,7 +6,7 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View>
-        <Text style={styles.subtitle}>app/(drawer)/profile.tsx</Text>
+        <Text style={styles.subtitle}>app/(tabs)/(drawer)/profile.tsx</Text>
       </View>
       <Link href="/">
         <Text style={styles.linktitle}>logout</Text>

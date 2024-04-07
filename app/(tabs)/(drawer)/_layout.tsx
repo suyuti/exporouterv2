@@ -1,11 +1,5 @@
 import { Drawer } from "expo-router/drawer";
-import {
-  Button,
-  Text,
-  TouchableOpacity,
-  useWindowDimensions,
-  View,
-} from "react-native";
+import { Button, useWindowDimensions } from "react-native";
 import { useNavigation } from "expo-router";
 import { DrawerActions } from "@react-navigation/native";
 
@@ -30,21 +24,21 @@ export default function Layout() {
       }}
     >
       <Drawer.Screen
-        name="profile" // This is the name of the page and must match the url from root
+        name="profile"
         options={{
           drawerLabel: "Profile",
           title: "Profile",
         }}
       />
       <Drawer.Screen
-        name="dashboard" // This is the name of the page and must match the url from root
+        name="dashboard"
         options={{
           drawerLabel: "Dashboard",
           title: "dashboard",
         }}
       />
       <Drawer.Screen
-        name="favorites" // This is the name of the page and must match the url from root
+        name="favorites"
         options={{
           drawerLabel: "Favorites",
           title: "favorites",
