@@ -1,5 +1,5 @@
 import { Text, View, Image } from "react-native";
-import { Link, Stack } from "expo-router";
+import { Link } from "expo-router";
 import { styles } from "../../../styles/styles";
 
 export default function Page() {
