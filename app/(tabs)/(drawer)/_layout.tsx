@@ -38,7 +38,7 @@ export default function Layout() {
         }}
       />
       <Drawer.Screen
-        name="favorites"
+        name="favorities"
         options={{
           drawerLabel: "Favorites",
           title: "favorites",
